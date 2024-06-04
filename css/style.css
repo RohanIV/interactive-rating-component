@@ -17,7 +17,7 @@ body{
 form, .thank-you-container{
     background-image: linear-gradient(to top left, hsl(215, 33%, 10%), hsl(213, 19%, 18%));
     border-radius: 15px;
-    height: 430px;
+    height: 450px;
     margin: 0 20px;
     padding: 25px;
 }
